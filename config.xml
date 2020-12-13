@@ -2,7 +2,7 @@
 <widget id="com.ionicframework.conferenceapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>KakaoSDKIonic4</name>
     <description>.</description>
-    <content original-src="index.html" src="http://localhost:8101" />
+    <content original-src="index.html" src="http://localhost:8100" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -103,4 +103,5 @@
         <variable name="KAKAO_APP_KEY" value="2e61aa2a897c747dc7780189bd6194c0" />
     </plugin>
     <allow-navigation href="http://localhost:8101" sessionid="8d45fbdf" />
+    <allow-navigation href="http://localhost:8100" sessionid="842face0" />
 </widget>
