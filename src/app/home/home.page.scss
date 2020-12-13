@@ -1,0 +1,10 @@
+app-home {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#kakao-icon ::after{
+  color:black;
+content: "afaf";
+}
